@@ -6,6 +6,6 @@ Testo
 So yeah
   It's for testing stuff...
   
-  ¯\_(ツ)_/¯
+  ¯\\_(ツ)_/¯
 
   Hello hi.
